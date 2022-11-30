@@ -1,5 +1,8 @@
+#include <iostream>
+using namespace std;
+
 int main
 {
-
+	cout << "cool feature" << endl;
 	return 0;
 }
